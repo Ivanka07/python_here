@@ -15,6 +15,7 @@ The functions and architecture will change randomly :)
 
 #### Planned Functions:
 - public transport
+- bike
 
 
 #### Keys:
